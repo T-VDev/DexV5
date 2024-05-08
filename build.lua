@@ -11086,7 +11086,7 @@ Main = (function()
 			SelectChildren = 28,       SelectChildren_Disabled = 29,    InsertObject = 30,     ViewScript = 31,        AddStar = 32,         RemoveStar = 33,          Script_Disabled = 34,
 			LocalScript_Disabled = 35, Play = 36,                       Pause = 37,            Rename_Disabled = 38
 		})
-		Main.LargeIcons = Lib.IconMap.new("rbxassetid://17426029110",256,256,32,32)
+		Main.LargeIcons = Lib.IconMap.new("rbxassetid://17426029084",256,256,32,32)
 		Main.LargeIcons:SetDict({
 			Explorer = 0, Properties = 1, Script_Viewer = 2, Idk = 3, Idk2 = 4, Idk4 = 5, Plugins = 7, Download = 8, ServerSided = 9, ClientSided = 10, 
 		})
